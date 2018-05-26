@@ -1,3 +1,2 @@
 # iptv
-criar um fiheiro m3u
-ola
+Criar um ficheiro de m3u para iptv;
