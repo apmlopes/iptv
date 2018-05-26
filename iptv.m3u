@@ -7,4 +7,4 @@ http://62.210.93.115:80/live?channelId=1&uid=5216&deviceMac=00:1a:79:3c:c9:73
 #EXTINF:-1 tvg-id="BBC North West-BBC One" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC One" tvg-logo="" group-title="Entertainment Channels",BBC One - BBC One
 http://62.210.99.158:80/live?channelId=2&uid=3908&deviceMac=00:1A:79:4A:AD:B3
 
-#EXTM3U $ExtFilter="SPORT"
+#EXTM3U $ExtFilter="SPORT-Br"
